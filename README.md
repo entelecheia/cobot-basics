@@ -2,6 +2,8 @@
 
 A Python library simplifying the essential concepts and techniques for working with collaborative robots (cobots).
 
+Learn the core concepts of collaborative robotics using Python. This library provides practical tools for communication, path planning, and camera integration, making it perfect for experimentation and learning.
+
 ## **Key Features**
 
 - **Communication:** Establishes smooth communication with your cobot using common protocols:
